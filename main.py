@@ -6,6 +6,11 @@ Command line arguments are as follows:
 """
 
 
+# TODO: Play a little bit of background noise so that other systems on the user's machine don't mute the beeps for being too short
+# TODO: Time signature option
+# TODO: Chaos option
+
+
 import argparse
 import musicalbeeps
 from time import sleep, time
